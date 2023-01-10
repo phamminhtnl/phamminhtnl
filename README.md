@@ -30,4 +30,7 @@
     <img src="images/icons8-mail-100.png" alt="pnmplay-email" />
   </a>
 </div>
+<div align="center">
+<video src="/images/iq.mp4"></video>
+</div>
 
